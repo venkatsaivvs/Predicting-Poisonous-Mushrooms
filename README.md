@@ -13,3 +13,7 @@ We need a statistical proof to accept this. To see the statistical significance,
 
 ![rplot04](https://cloud.githubusercontent.com/assets/17242464/21290428/f1b22e76-c487-11e6-9846-8e99f7a8bc9c.png)
 
+Below is the resultant decision tree
+![rplot05](https://cloud.githubusercontent.com/assets/17242464/21290456/d2d2b2fe-c488-11e6-9d13-9c76bd7c6c1a.png)
+
+
