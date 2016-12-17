@@ -4,12 +4,12 @@ This is a predictive modeling project to predict whether a mushroom is poisonous
 
 Interpreting the results of EDA,Chi-Square tests and decision tree showed us some interesting facts that odor of mushroom plays the most important role in determining the poisonous/Edibility of a mushroom
 
-Below is the result of EDA  THe plot tell us that if a mushroom has a category of f,c  it may be poisonous and edible if its n.
+Below is the result of EDA, The plot tell us that if a mushroom has a category of f,c  it may be poisonous and edible if its n.
  
 ![odor vs pe](https://cloud.githubusercontent.com/assets/17242464/21290412/58ad77da-c487-11e6-8fa4-2cb75ca5f4bd.png)
 
 
-We need a statistical proof to accept this. To see the statistical significance, below is the result of mosaic plot that shows Odor is statistically associated with poisonous or edibility of a mushroom
+We need a statistical proof to accept this. To see the statistical significance, below is the result of mosaic plot that shows Odor is statistically associated with poisonous or edibility of a mushroom.Mosaic plot indicates that there is a high strength of association between odor and PE variable with n as edible and f,c as poisonous mushrooms.
 
 ![rplot04](https://cloud.githubusercontent.com/assets/17242464/21290428/f1b22e76-c487-11e6-9846-8e99f7a8bc9c.png)
 
